@@ -1,5 +1,5 @@
-### Hi there, This is Hao Chen 👋 
-## A Self-taught Web Developer
+## Hi there, This is Hao Chen 👋 
+### A Self-taught Web Developer
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
