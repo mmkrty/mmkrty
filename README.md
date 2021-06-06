@@ -1,4 +1,4 @@
-## Hi there, This is Hao Chen 👋 
+## Hi there, This is Hao Chen 👋 👋
 ### A Self-taught Web Developer based in Berlin.
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
