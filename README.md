@@ -11,10 +11,10 @@ The following are projects I built in online courses.
   Course Link: [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/)
    <br /> 
   
-| Project  | Live Demo      |
-| -------- | -------------- |
-| [Expanding Cards](https://github.com/mmkrty/50-expanding-card) | [Live](https://mmkrty.github.io/50-expanding-card/) |
-| [Progress Steps](https://github.com/mmkrty/50-progress-steps)  | [Live](https://mmkrty.github.io/50-progress-steps/) |
+|# | Project  | Live Demo      |
+|--| -------- | -------------- |
+|01| [Expanding Cards](https://github.com/mmkrty/50-expanding-card) | [Live](https://mmkrty.github.io/50-expanding-card/) |
+|02| [Progress Steps](https://github.com/mmkrty/50-progress-steps)  | [Live](https://mmkrty.github.io/50-progress-steps/) |
   
   
 </details>
