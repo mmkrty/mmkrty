@@ -13,8 +13,8 @@ The following are projects I built in online courses.
   
 | Project  | Live Demo      |
 | -------- | -------------- |
-| [Expanding Cards](https://github.com/mmkrty/50-expanding-card) |  |
-| [Progress Steps](https://github.com/mmkrty/50-progress-steps) |  |
+| [Expanding Cards](https://github.com/mmkrty/50-expanding-card) | [Live](https://mmkrty.github.io/50-expanding-card/) |
+| [Progress Steps](https://github.com/mmkrty/50-progress-steps)  | [Live](https://mmkrty.github.io/50-progress-steps/) |
   
   
 </details>
