@@ -5,7 +5,7 @@
 ## Course Projects
 The following are projects I built in online courses.
 <details>
-  <summary>### 50 Projects In 50 Days - HTML, CSS & JavaScript</summary>
+  <summary>50 Projects In 50 Days - HTML, CSS & JavaScript</summary>
   
   Course Link: [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/)
   
