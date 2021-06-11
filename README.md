@@ -15,6 +15,8 @@ The following are projects I built in online courses.
 |--| -------- | -------------- |
 |01| [Expanding Cards](https://github.com/mmkrty/50-expanding-card) | [Live](https://mmkrty.github.io/50-expanding-card/) |
 |02| [Progress Steps](https://github.com/mmkrty/50-progress-steps)  | [Live](https://mmkrty.github.io/50-progress-steps/) |
+|03| [Rotating Navigation Animation](https://github.com/mmkrty/50-rotating-navigation) | [Live](https://mmkrty.github.io/50-rotating-navigation/) |
+|04| [Hidden Search Widget](https://github.com/mmkrty/50-hidden-search)  | [Live](https://mmkrty.github.io/50-hidden-search/) |
   
   
 </details>
