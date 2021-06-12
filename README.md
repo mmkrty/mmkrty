@@ -17,6 +17,7 @@ The following are projects I built in online courses.
 |02| [Progress Steps](https://github.com/mmkrty/50-progress-steps)  | [Live](https://mmkrty.github.io/50-progress-steps/) |
 |03| [Rotating Navigation Animation](https://github.com/mmkrty/50-rotating-navigation) | [Live](https://mmkrty.github.io/50-rotating-navigation/) |
 |04| [Hidden Search Widget](https://github.com/mmkrty/50-hidden-search)  | [Live](https://mmkrty.github.io/50-hidden-search/) |
+|05| [Blurry Loading](https://github.com/mmkrty/50-blurring-loading)  | [Live](https://mmkrty.github.io/50-blurring-loading/) |
   
   
 </details>
