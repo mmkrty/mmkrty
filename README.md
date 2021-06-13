@@ -18,6 +18,7 @@ The following are projects I built in online courses.
 |03| [Rotating Navigation Animation](https://github.com/mmkrty/50-rotating-navigation) | [Live](https://mmkrty.github.io/50-rotating-navigation/) |
 |04| [Hidden Search Widget](https://github.com/mmkrty/50-hidden-search)  | [Live](https://mmkrty.github.io/50-hidden-search/) |
 |05| [Blurry Loading](https://github.com/mmkrty/50-blurring-loading)  | [Live](https://mmkrty.github.io/50-blurring-loading/) |
+|06| [Scroll Animation](https://github.com/mmkrty/50-scroll-animation)  | [Live](https://mmkrty.github.io/50-scroll-animation/) |
   
   
 </details>
