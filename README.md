@@ -22,6 +22,7 @@ The following are projects I built in online courses.
 |07| [Split Landing Page](https://github.com/mmkrty/50-split-landing-page)  | [Live](https://mmkrty.github.io/50-split-landing-page/) |  
 |08| [Form Wave Animation](https://github.com/mmkrty/50-form-wave-animation)  | [Live](https://mmkrty.github.io/50-form-wave-animation/) |  
 |09| [Sound Board](https://github.com/mmkrty/50-sound-board)  | [Live](https://mmkrty.github.io/50-sound-board/) |  
+|10| [Dad Jokes](https://github.com/mmkrty/50-dad-jokes)  | [Live](https://mmkrty.github.io/50-dad-jokes/) |  
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
