@@ -24,6 +24,7 @@ The following are projects I built in online courses.
 |09| [Sound Board](https://github.com/mmkrty/50-sound-board)  | [Live](https://mmkrty.github.io/50-sound-board/) |  
 |10| [Dad Jokes](https://github.com/mmkrty/50-dad-jokes)  | [Live](https://mmkrty.github.io/50-dad-jokes/) |  
 |11| [Event Keycodes](https://github.com/mmkrty/50-event-keycodes)  | [Live](https://mmkrty.github.io/50-event-keycodes/) |  
+|12| [Faq Collapse](https://github.com/mmkrty/50-faq-collapse)  | [Live](https://mmkrty.github.io/50-faq-collapse/) |
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
