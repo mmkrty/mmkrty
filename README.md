@@ -29,6 +29,7 @@ The following are projects I built in online courses.
 |14| [Animated Navigation](https://github.com/mmkrty/50-animated-navigation)  | [Live](https://mmkrty.github.io/50-animated-navigation/) |
 |15| [Incrementing Counter](https://github.com/mmkrty/50-incrementing-counter)  | [Live](https://mmkrty.github.io/50-incrementing-counter/) |
 |16| [Drink Water](https://github.com/mmkrty/50-drink-water)  | [Live](https://mmkrty.github.io/50-drink-water/) |
+|17| [Movie App](https://github.com/mmkrty/50-movie-app)  | [Live](https://mmkrty.github.io/50-movie-app/) |
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
