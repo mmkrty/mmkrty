@@ -30,6 +30,7 @@ The following are projects I built in online courses.
 |15| [Incrementing Counter](https://github.com/mmkrty/50-incrementing-counter)  | [Live](https://mmkrty.github.io/50-incrementing-counter/) |
 |16| [Drink Water](https://github.com/mmkrty/50-drink-water)  | [Live](https://mmkrty.github.io/50-drink-water/) |
 |17| [Movie App](https://github.com/mmkrty/50-movie-app)  | [Live](https://mmkrty.github.io/50-movie-app/) |
+|18| [Background Slider](https://github.com/mmkrty/50-background-slider)  | [Live](https://mmkrty.github.io/50-background-slider/) |
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
