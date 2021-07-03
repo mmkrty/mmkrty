@@ -36,6 +36,7 @@ The following are projects I built in online courses.
 |21| [Drag and Drop](https://github.com/mmkrty/50-drag-n-drop)  | [Live](https://mmkrty.github.io/50-drag-n-drop/) |
 |22| [Drawing App](https://github.com/mmkrty/50-drawing-app)  | [Live](https://mmkrty.github.io/50-drawing-app/) |
 |23| [Kinetic Css Loader](https://github.com/mmkrty/50-kinetic-css-loader)  | [Live](https://mmkrty.github.io/50-kinetic-css-loader/) |
+|24| [Content Placeholder](https://github.com/mmkrty/50-content-placeholder)  | [Live](https://mmkrty.github.io/50-content-placeholder/) |
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
