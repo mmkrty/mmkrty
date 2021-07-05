@@ -38,6 +38,7 @@ The following are projects I built in online courses.
 |23| [Kinetic Css Loader](https://github.com/mmkrty/50-kinetic-css-loader)  | [Live](https://mmkrty.github.io/50-kinetic-css-loader/) |
 |24| [Content Placeholder](https://github.com/mmkrty/50-content-placeholder)  | [Live](https://mmkrty.github.io/50-content-placeholder/) |
 |25| [Sticky Navbar](https://github.com/mmkrty/50-sticky-navigation)  | [Live](https://mmkrty.github.io/50-sticky-navigation/) |
+|26| [Double Vertical Slider](https://github.com/mmkrty/50-double-vertical-slider)  | [Live](https://mmkrty.github.io/50-double-vertical-slider/) |
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
