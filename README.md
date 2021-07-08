@@ -41,6 +41,7 @@ The following are projects I built in online courses.
 |26| [Double Vertical Slider](https://github.com/mmkrty/50-double-vertical-slider)  | [Live](https://mmkrty.github.io/50-double-vertical-slider/) |
 |27| [Toast Notification](https://github.com/mmkrty/50-toast-notification)  | [Live](https://mmkrty.github.io/50-toast-notification/) |
 |28| [Github Profiles](https://github.com/mmkrty/50-github-profile)  | [Live](https://mmkrty.github.io/50-github-profile/) |
+|29| [Double Heart Click](https://github.com/mmkrty/50-double-heart-click)  | [Live](https://mmkrty.github.io/50-double-heart-click/) |
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
