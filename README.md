@@ -44,6 +44,7 @@ The following are projects I built in online courses.
 |29| [Double Heart Click](https://github.com/mmkrty/50-double-heart-click)  | [Live](https://mmkrty.github.io/50-double-heart-click/) |
 |30| [Auto Text Effect](https://github.com/mmkrty/50-auto-text-effect)  | [Live](https://mmkrty.github.io/50-auto-text-effect/) |
 |31| [Password Generator](https://github.com/mmkrty/50-password-generator)  | [Live](https://mmkrty.github.io/50-password-generator/) |
+|32| [Good Fast Cheap Checkboxes](https://github.com/mmkrty/50-good-cheap-fast-togglebox)  | [Live](https://mmkrty.github.io/50-good-cheap-fast-togglebox/) |
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
