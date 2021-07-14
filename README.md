@@ -47,6 +47,7 @@ The following are projects I built in online courses.
 |32| [Good Fast Cheap Checkboxes](https://github.com/mmkrty/50-good-cheap-fast-togglebox)  | [Live](https://mmkrty.github.io/50-good-cheap-fast-togglebox/) |
 |33| [Notes App](https://github.com/mmkrty/50-notes-app)  | [Live](https://mmkrty.github.io/50-notes-app/) |
 |34| [Animated Countdown](https://github.com/mmkrty/50-animated-countdown)  | [Live](https://mmkrty.github.io/50-animated-countdown/) |
+|35| [Image Carousel](https://github.com/mmkrty/50-image-carousel)  | [Live](https://mmkrty.github.io/50-image-carousel/) |
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
