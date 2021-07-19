@@ -51,6 +51,7 @@ The following are projects I built in online courses.
 |36| [Hover Board](https://github.com/mmkrty/50-hoverboard)  | [Live](https://mmkrty.github.io/50-hoverboard/) |
 |37| [Pokedex](https://github.com/mmkrty/50-pokedex)  | [Live](https://mmkrty.github.io/50-pokedex/) |
 |38| [Mobile Tab Navigation](https://github.com/mmkrty/50-mobile-tab-navigation)  | [Live](https://mmkrty.github.io/50-mobile-tab-navigation/) |
+|39| [Password Strength Background](https://github.com/mmkrty/50-password-strength-background)  | [Live](https://mmkrty.github.io/50-password-strength-background/) |  
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
