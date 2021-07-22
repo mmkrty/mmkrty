@@ -54,6 +54,7 @@ The following are projects I built in online courses.
 |39| [Password Strength Background](https://github.com/mmkrty/50-password-strength-background)  | [Live](https://mmkrty.github.io/50-password-strength-background/) |  
 |40| [3D Background Boxes](https://github.com/mmkrty/50-3D-background-boxes)  | [Live](https://mmkrty.github.io/50-3D-background-boxes/) |  
 |41| [Verify Account UI](https://github.com/mmkrty/50-verifyaccount-UI)  | [Live](https://mmkrty.github.io/50-verifyaccount-UI/) |  
+|42| [Live User Filter](https://github.com/mmkrty/50-live-user-filter)  | [Live](https://mmkrty.github.io/50-live-user-filter/) |  
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
