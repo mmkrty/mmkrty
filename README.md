@@ -56,6 +56,7 @@ The following are projects I built in online courses.
 |41| [Verify Account UI](https://github.com/mmkrty/50-verifyaccount-UI)  | [Live](https://mmkrty.github.io/50-verifyaccount-UI/) |  
 |42| [Live User Filter](https://github.com/mmkrty/50-live-user-filter)  | [Live](https://mmkrty.github.io/50-live-user-filter/) |  
 |43| [Feedback UI Design](https://github.com/mmkrty/50-feedback-UI-design)  | [Live](https://mmkrty.github.io/50-feedback-UI-design/) |  
+|44| [Custom Range Slider](https://github.com/mmkrty/50-custom-range-slider)  | [Live](https://mmkrty.github.io/50-custom-range-slider/) |  
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
