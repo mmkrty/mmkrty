@@ -60,6 +60,7 @@ The following are projects I built in online courses.
 |45| [Netflix Navigation](https://github.com/mmkrty/50-netflix-navigation)  | [Live](https://mmkrty.github.io/50-netflix-navigation/) |  
 |46| [Quiz App](https://github.com/mmkrty/50-quiz-app)  | [Live](https://mmkrty.github.io/50-quiz-app/) |  
 |47| [Testimonial Box Switcher](https://github.com/mmkrty/50-testimonial-box)  | [Live](https://mmkrty.github.io/50-testimonial-box/) |  
+|48| [Random Image Feed](https://github.com/mmkrty/50-random-image-feed)  | [Live](https://mmkrty.github.io/50-random-image-feed/) |  
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
