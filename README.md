@@ -62,6 +62,7 @@ The following are projects I built in online courses.
 |47| [Testimonial Box Switcher](https://github.com/mmkrty/50-testimonial-box)  | [Live](https://mmkrty.github.io/50-testimonial-box/) |  
 |48| [Random Image Feed](https://github.com/mmkrty/50-random-image-feed)  | [Live](https://mmkrty.github.io/50-random-image-feed/) |  
 |49| [Todo List](https://github.com/mmkrty/50-todo-list)  | [Live](https://mmkrty.github.io/50-todo-list/) |  
+|50| [Insect Catch Game](https://github.com/mmkrty/50-insect-catch-game)  | [Live](https://mmkrty.github.io/50-insect-catch-game/) |  
 </details>
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
