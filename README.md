@@ -1,4 +1,4 @@
-## Hi there, This is Hao Chen 👋 👋
+## 👋 Hi there, This is Hao Chen 👋 
 ### A Self-taught Web Developer based in Berlin.
 
 
