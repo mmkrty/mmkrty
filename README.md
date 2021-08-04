@@ -1,9 +1,9 @@
 ## 👋 Hi there, This is Hao Chen 👋 
-### I'm a Self-taught Web Developer based in Berlin
+### I'm a Self-taught Web Developer based in Berlin.
 
 
 ## Course Projects
-The following are projects I built in online courses.
+The following are projects I built in online courses:
 <details>
   <summary>50 Projects In 50 Days - HTML, CSS & JavaScript</summary>
    <br /> 
