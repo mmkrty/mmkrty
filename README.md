@@ -69,6 +69,10 @@ The following are projects I built in online courses:
   <summary>The Complete 2021 Web Development Bootcamp</summary>
 </details>
 
+<details>
+  <summary>The Complete JavaScript Course 2021: From Zero to Expert!</summary>
+</details>
+
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
