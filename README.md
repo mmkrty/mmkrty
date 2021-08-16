@@ -1,5 +1,5 @@
 ## 👋 Hi there, This is Hao Chen 👋 
-### I'm a Self-taught Web Developer based in Berlin
+### I'm a Self-taught Web Developer based in Berlin.
 
 
 ## Course Projects
@@ -66,7 +66,7 @@ The following are projects I built in online courses:
 </details>
 
 <details>
-  <summary>The Complete 2021 Web Development Bootcamp.</summary>
+  <summary>The Complete 2021 Web Development Bootcamp</summary>
 </details>
 
 <details>
