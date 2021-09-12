@@ -1,5 +1,5 @@
 ## 👋 Hi there, This is Hao Chen
-### I'm a Self-taught Web Developer based in Berlin...
+### I'm a Self-taught Web Developer based in Berlin..
 
 
 
