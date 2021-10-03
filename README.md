@@ -67,7 +67,7 @@ The following are projects I built in online courses:
 </details>
 
 <details>
-  <summary>The Complete 2021 Web Development Bootcamp<./summary>
+  <summary>The Complete 2021 Web Development Bootcamp</summary>
 </details>
 
 <details>
