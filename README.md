@@ -76,6 +76,10 @@ The following are projects I built in online courses:
 
 <details>
   <summary>Advanced CSS and Sass: Flexbox, Grid, Animations and More!</summary>
+  
+|# | Project  | Live Demo      |
+|--| -------- | -------------- |
+|01| [Natours](https://github.com/mmkrty/Jonas-advance-css-Natours) | [Live](https://mmkrty.github.io/Jonas-advance-css-Natours/) |
 </details>
 
 <!--
