@@ -72,6 +72,11 @@ The following are projects I built in online courses:
 
 <details>
   <summary>The Complete JavaScript Course 2021: From Zero to Expert!</summary>
+  
+|# | Project  | Live Demo      |
+|--| -------- | -------------- |
+|01| [Guessing game](https://github.com/mmkrty/Jonas-js-guessing-game) | [Live](https://mmkrty.github.io/Jonas-js-guessing-game/) |
+|02| [Modal window](https://github.com/mmkrty/Jonas-js-modal-window) | [Live](https://mmkrty.github.io/Jonas-js-modal-window/) |
 </details>
 
 <details>
