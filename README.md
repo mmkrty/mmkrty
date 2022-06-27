@@ -4,11 +4,11 @@
 ## Personal Projects
 The following are my original projects:
 
-Persomal Website [Github](https://github.com/mmkrty/myprojects-portfolio-v1.0) [Live](https://mmkrty.github.io/myprojects-portfolio-v1.0/)
-
-Drink Beer [Github](https://github.com/mmkrty/myprojects-drink-beer) [Live](https://mmkrty.github.io/myprojects-drink-beer/)
-
-History on this day [Github](https://github.com/mmkrty/myprojects-history-today) [Live](https://mmkrty.github.io/myprojects-history-today/)
+| Project  | Live Demo      |
+| -------- | -------------- |
+|[Persomal Website](https://github.com/mmkrty/myprojects-portfolio-v1.0)| [Live](https://mmkrty.github.io/myprojects-portfolio-v1.0/)|
+|[Drink Beer](https://github.com/mmkrty/myprojects-drink-beer) |[Live](https://mmkrty.github.io/myprojects-drink-beer/)|
+|[History on this day ](https://github.com/mmkrty/myprojects-history-today)| [Live](https://mmkrty.github.io/myprojects-history-today/)|
 
 ## Course Projects
 The following are projects I built in online courses:
