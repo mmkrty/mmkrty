@@ -83,6 +83,8 @@ The following are projects I built in online courses:
   
   <summary>The Complete JavaScript Course 2022: From Zero to Expert!</summary>
   
+  
+  
    Course Link: [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
   
 |# | Project  | Live Demo      |
