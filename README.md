@@ -1,5 +1,5 @@
 ## 👋 Hi there, This is Hao Chen
-### I'm a Historian and Self-taught Web Developer based in Berlin..
+### I'm a Historian and Self-taught Web Developer based in Berlin.
 
 ## Personal Projects
 The following are my original projects:
