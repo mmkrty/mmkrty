@@ -93,6 +93,7 @@ The following are projects I built in online courses:
 |02| [Modal window](https://github.com/mmkrty/Jonas-js-modal-window) | [Live](https://mmkrty.github.io/Jonas-js-modal-window/) |
 |03| [Pig Game](https://github.com/mmkrty/Jonas-js-pig-game) | [Live](https://mmkrty.github.io/Jonas-js-pig-game/) |
 |04| [The Bankist](https://github.com/mmkrty/Jonas-js-bankist-ui) | [Live](https://mmkrty.github.io/Jonas-js-bankist-ui/) |
+|05| [The Bankist landing page](https://github.com/mmkrty/Jonas-js-bankist-landing-page) | [Live](https://mmkrty.github.io/Jonas-js-bankist-landing-page/) |
 </details>
 
 <details>
