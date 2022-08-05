@@ -7,6 +7,7 @@ The following are my original projects:
 | Project  | Live Demo      |
 | -------- | -------------- |
 |[Persomal Website](https://github.com/mmkrty/myprojects-portfolio-v1.0)| [Live](https://mmkrty.github.io/myprojects-portfolio-v1.0/)|
+|[JAMstack Blog](https://github.com/mmkrty/myprojects-blog-JAM)| [Live](https://the-histodev.netlify.app/)|
 |[Drink Beer](https://github.com/mmkrty/myprojects-drink-beer) |[Live](https://mmkrty.github.io/myprojects-drink-beer/)|
 |[History on this day](https://github.com/mmkrty/myprojects-history-today)| [Live](https://mmkrty.github.io/myprojects-history-today/)|
 |[Headlines Taiwan](https://github.com/mmkrty/myprojects-headlines-taiwan)| coming soon|
