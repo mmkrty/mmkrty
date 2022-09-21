@@ -77,7 +77,7 @@ The following are projects I built in online courses:
 </details>
 
 <details>
-  <summary>The Complete 2021 Web Development Bootcamp</summary>
+  <summary>The Complete 2022 Web Development Bootcamp</summary>
 </details>
 
 <details>
@@ -104,6 +104,17 @@ The following are projects I built in online courses:
 |--| -------- | -------------- |
 |01| [Natours](https://github.com/mmkrty/Jonas-advance-css-Natours) | [Live](https://mmkrty.github.io/Jonas-advance-css-Natours/) |
 |02| [Trillo](https://github.com/mmkrty/Jonas-advance-css-Trillo) | [Live](https://mmkrty.github.io/Jonas-advance-css-Trillo/) |
+</details>
+
+
+<details>
+  <summary>Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)</summary>
+  
+  Course Link: [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+|# | Project  | Live Demo      |
+|--| -------- | -------------- |
+|01| [Monsters Rolodex](https://github.com/mmkrty/ZTM-react-monster) | [Live](https://ztm-monster-rolodex-haochen.netlify.app/) |
+|02| [Crown Clothing](https://github.com/mmkrty/ZTM-react-clothing-shop) | [Live](https://ztm-crown-clothing-haochen.netlify.app/) |
 </details>
 
 <!--
