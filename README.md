@@ -137,7 +137,7 @@ The following are projects I built in online courses:
 |02| [Crown Clothing](https://github.com/mmkrty/ZTM-react-clothing-shop) | [Live](https://ztm-crown-clothing-haochen.netlify.app/) |
 </details>
 
-Badges
+### Badges
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmkrty" alt="mmkrty" /></a> </p>
 
 <!--
