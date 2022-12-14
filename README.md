@@ -2,8 +2,6 @@
 ### I'm a Historian and Web Developer based in Berlin.
 
 
-- 🔭 I’m currently working on [My Stoury](https://github.com/mmkrty/my-stoury)
-
 - 🌱 I’m currently learning **React JS, Next JS**
 
 - 📫 How to reach me **liuhaoch1990@gmail.com**
