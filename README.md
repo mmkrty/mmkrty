@@ -1,11 +1,13 @@
 ## 👋 Hi there, This is Hao Chen
-### I'm a Historian and Web Developer based in Berlin.
+### I'm a Web Developer based in Berlin.
 
 - 🔭 Visit my personel website: [haochendev.com](https://www.haochendev.com/)
 
 - 🌱 I’m currently learning **React JS, Next JS**
 
 - 📫 How to reach me **liuhaoch1990@gmail.com**
+
+- ⚡ Fun fact: I'm also a **Historian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
