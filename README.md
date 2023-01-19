@@ -3,7 +3,7 @@
 
 - 🔭 Visit my personel website: [haochendev.com](https://www.haochendev.com/)
 
-- 🌱 I’m currently learning **React JS, Next JS**
+- 🌱 I’m currently learning **React JS, Next JS, and TypeScript**
 
 - 📫 How to reach me **liuhaoch1990@gmail.com**
 
