@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS, TypeScript, and GraphQL**
 
-- 📫 How to reach me **liuhaoch1990@gmail.com**
+- 📫 How to reach me: **liuhaoch1990@gmail.com**
 
 - ⚡ Fun fact: I'm also a **Historian**
 
