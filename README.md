@@ -32,7 +32,7 @@ Personal projects:
 
 | Project  | Live Demo      |
 | -------- | -------------- |
-|[Persomal Website 2.0](https://github.com/mmkrty/myprojects-portfolio-next)| [Live](https://www.haochendev.com)|
+|[Persomal Website 2.0](https://github.com/mmkrty/portfolio-next)| [Live](https://www.haochendev.com)|
 |[Persomal Website](https://github.com/mmkrty/myprojects-portfolio-v1.0)| [Live](https://mmkrty.github.io/myprojects-portfolio-v1.0/)|
 |[Knowledge 365](https://github.com/mmkrty/myprojects-knowledge-365)| [Live](https://knowledge-365.netlify.app/)|
 |[JAMstack Blog](https://github.com/mmkrty/myprojects-blog-JAM)| [Live](https://the-histodev.netlify.app/)|
