@@ -172,7 +172,7 @@ The following are the projects I built in online courses:
 ![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mmkrty&limit=6&theme=prussian)
 
 ### Badges:
-![HaoChen's trophy](https://github-profile-trophy.vercel.app/?username=mmkrty&theme=prussian&column=7&margin-w=10&margin-h=15)
+![HaoChen's trophy](https://github-profile-trophy.vercel.app/?username=mmkrty&theme=vue-dark&column=7&margin-w=10&margin-h=15)
 
 <!--
 **mmkrty/mmkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
