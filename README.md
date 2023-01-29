@@ -42,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmkrty&layout=compact)](https://github.com/mmkrty/github-readme-stats)
 
 
-## Projects
+## Projects:
 Group projects:
 
 | Project  | Live Demo      |
@@ -64,7 +64,7 @@ Personal projects:
 |[Headlines Taiwan](https://github.com/mmkrty/myprojects-headlines-taiwan)| coming soon|
 
 
-## Course Projects
+## Course Projects:
 The following are the projects I built in online courses:
 <details>
   <summary>50 Projects In 50 Days - HTML, CSS & JavaScript.</summary>
@@ -168,7 +168,10 @@ The following are the projects I built in online courses:
 |02| [Crown Clothing](https://github.com/mmkrty/ZTM-react-clothing-shop) | [Live](https://ztm-crown-clothing-haochen.netlify.app/) |
 </details>
 
-### Badges
+## Medium Posts:
+[Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mmkrty&limit=6)
+
+### Badges:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmkrty" alt="mmkrty" /></a> </p>
 
 <!--
