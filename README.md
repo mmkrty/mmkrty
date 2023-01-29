@@ -169,7 +169,7 @@ The following are the projects I built in online courses:
 </details>
 
 ## Medium Posts:
-![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mmkrty&limit=6)
+![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mmkrty&limit=6&theme=prussian)
 
 ### Badges:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmkrty" alt="mmkrty" /></a> </p>
