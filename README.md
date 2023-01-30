@@ -165,7 +165,7 @@ The following are the projects I built in online courses:
 |02| [Crown Clothing](https://github.com/mmkrty/ZTM-react-clothing-shop) | [Live](https://ztm-crown-clothing-haochen.netlify.app/) |
 </details>
 
-## Medium Posts:
+## Recent Medium Posts:
 ![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mmkrty&limit=6&theme=prussian)
 
 ### Badges:
