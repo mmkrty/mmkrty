@@ -167,6 +167,7 @@ The following are the projects I built in online courses:
 
 ## Recent Medium Posts:
 ![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mmkrty&limit=6&theme=prussian)
+![Medium]([https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mmkrty&limit=6&theme=prussian](https://camo.githubusercontent.com/4f1f3052f6151b50931274508af29cceb40ebffd4c53ce19ab6b32bfe8a14103/68747470733a2f2f6769746875622d726561642d6d656469756d2d6769742d6d61696e2e7061686c6576696b756e2e76657263656c2e6170702f6c61746573743f757365726e616d653d6d6d6b727479266c696d69743d36267468656d653d707275737369616e))
 
 ### Badges:
 ![HaoChen's trophy](https://github-profile-trophy.vercel.app/?username=mmkrty&theme=dark&column=7&margin-w=10&margin-h=15)
