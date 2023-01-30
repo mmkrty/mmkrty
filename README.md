@@ -39,9 +39,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmkrty&layout=compact)](https://github.com/mmkrty/github-readme-stats)
-
-
 ## Projects:
 Group projects:
 
