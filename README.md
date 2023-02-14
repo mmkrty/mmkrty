@@ -61,6 +61,11 @@ Personal projects:
 |[History on this day](https://github.com/mmkrty/myprojects-history-today)| [Live](https://mmkrty.github.io/myprojects-history-today/)|
 |[Headlines Taiwan](https://github.com/mmkrty/myprojects-headlines-taiwan)| coming soon|
 
+Interview take home projects:
+
+| Project  | Live Demo      |
+| -------- | -------------- |
+|[Wolt devlivery fee calculator](https://github.com/mmkrty/wolt-delivery-fee-app)| coming soon|
 
 ## Course Projects:
 The following are the projects I built in online courses:
