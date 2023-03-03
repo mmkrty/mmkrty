@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **liuhaoch1990@gmail.com**.
 
-- ⚡ Fun fact: I'm also a **Historian**!!
+- ⚡ Fun fact: I'm also a **Historian**!!!
 
 ## My skills:
 
