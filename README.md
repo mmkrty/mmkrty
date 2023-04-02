@@ -65,7 +65,9 @@ Interview take home projects:
 
 | Project  | Live Demo      |
 | -------- | -------------- |
-|[Wolt devlivery fee calculator](https://github.com/mmkrty/wolt-delivery-fee-app)| coming soon|
+|[Wolt devlivery fee calculator](https://github.com/mmkrty/wolt-delivery-fee-app)| not available |
+|[flaschenpost SE product list](https://github.com/mmkrty/flaschenpost-product-list)| not available |
+
 
 ## Course Projects:
 The following are the projects I built in online courses:
