@@ -3,7 +3,9 @@
 
 - 🔭 Visit my personel website: [haochendev.com](https://www.haochendev.com/).
 
-- 🌱 I’m currently learning **React JS, Next JS, TypeScript, and Anuglar**.
+- 🌱 I’m currently working as a Software Developer @ **flaschenpost**.
+
+- 🌱 I’m currently learning **TypeScript, and Anuglar (including Ngrx, Rxjs, Jasmine...etc)**.
 
 - 📫 How to reach me: **liuhaoch1990@gmail.com**.
 
