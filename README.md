@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: **liuhaoch1990@gmail.com**.
 
+- 💻 I'm presently working as a Software Developer at flaschenpost SE. 
+
 - ⚡ Fun fact: I'm also a **Historian**!
 
 ## My skills:
