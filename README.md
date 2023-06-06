@@ -3,11 +3,9 @@
 
 - 🔭 Visit my personel website: [haochendev.com](https://www.haochendev.com/).
 
-- 🌱 I’m currently working as a Software Developer @ **flaschenpost**.
-
 - 🌱 I’m currently learning **TypeScript, and Anuglar (including Ngrx, Rxjs, Jasmine...etc)**.
 
-- 📫 How to reach me: **liuhaoch1990@gmail.com**.
+- 📫 How to reach me: **liuhaoch1990@gmail.com**
 
 - 💻 I'm presently working as a Software Developer at flaschenpost SE. 
 
