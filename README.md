@@ -9,7 +9,7 @@
 
 - 💻 I'm presently working as a Software Developer at flaschenpost SE. 
 
-- ⚡ Fun fact: I'm also a **Historian**!!!
+- ⚡ Fun fact: I'm also a **Historian**!
 
 ## My skills:
 
