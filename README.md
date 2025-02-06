@@ -3,7 +3,7 @@
 
 - 🔭 Visit my personel website: [haochendev.com](https://www.haochendev.com/).
 
-- 🌱 I’m currently learning **TypeScript, and Anuglar (including Ngrx, Rxjs, Jasmine...etc)**.
+- 🌱 I’m currently learning **C#, and .Net Framework**.
 
 - 📫 How to reach me: **liuhaoch1990@gmail.com**
 
