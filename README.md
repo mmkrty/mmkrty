@@ -48,8 +48,8 @@ Group projects:
 
 | Project  | Live Demo      |
 | -------- | -------------- |
-|[My Stoury](https://github.com/mmkrty/my-stoury)| [Live](http:www.my-stoury.me)|
-|[Instant Skills](https://github.com/LauraLoe/InstantSkills)| [Live](https://instantskills.herokuapp.com/)|
+|[My Stoury](https://github.com/mmkrty/my-stoury)| Removed due to heroku new price plans|
+|[Instant Skills](https://github.com/LauraLoe/InstantSkills)|  Removed due to heroku new price plans|
 
 
 Personal projects:
